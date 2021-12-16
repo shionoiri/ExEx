@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ExEx</string>
+    <!--
+    This string is used for square devices and overridden by hello_world in
+    values-round/strings.xml for round devices.
+    -->
+    <string name="send">Send</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="zero">"00:00.0"</string>
+</resources>
